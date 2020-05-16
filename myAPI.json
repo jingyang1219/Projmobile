@@ -1,0 +1,468 @@
+{
+  "messages": [
+    {
+      "breed": "Affenpinscher",
+      "origin": "Germany",
+      "imgurl": "https://images.dog.ceo/breeds/affenpinscher/n02110627_12808.jpg"
+    },
+    {
+      "breed": "Africanis",
+      "origin": "Southern Africa",
+      "imgurl": "https://images.dog.ceo/breeds/african/n02116738_4115.jpg"
+
+    },
+    {
+      "breed": "Airedale",
+      "origin": "United Kingdom",
+      "imgurl": "https://images.dog.ceo/breeds/airedale/n02096051_950.jpg"
+
+    },
+    {
+      "breed": "Akita",
+      "origin": "Japan",
+      "imgurl": "https://images.dog.ceo/breeds/akita/Akina_Inu_in_Riga_1.jpg"
+    },
+    {
+      "breed": "Appenzeller",
+      "origin": "Switzerland",
+      "imgurl": "https://images.dog.ceo/breeds/appenzeller/n02107908_6093.jpg"
+    },
+    {
+      "breed": "Australian Shepherd",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/australian-shepherd/leroy.jpg"
+    },
+    {
+      "breed": "Basenji",
+      "origin": "Democratic Republic of the Congo",
+      "imgurl":"https://images.dog.ceo/breeds/basenji/n02110806_6080.jpg"
+    },
+    {
+      "breed": "Beagle",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/beagle/n02088364_2840.jpg"
+    },
+    {
+      "breed": "Bluetick Coonhound",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/bluetick/n02088632_4002.jpg"
+    },
+    {
+      "breed": "Borzoi",
+      "origin": "Russia",
+      "imgurl":"https://images.dog.ceo/breeds/borzoi/n02090622_9374.jpg"
+    },
+    {
+      "breed": "Bouvier des Flandres",
+      "origin": "Belgium",
+      "imgurl":"https://images.dog.ceo/breeds/bouvier/n02106382_1365.jpg"
+    },
+    {
+      "breed": "Boxer",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/boxer/n02108089_1003.jpg"
+    },
+    {
+      "breed": "Brabancon",
+      "origin": "Belgium",
+      "imgurl":"https://images.dog.ceo/breeds/brabancon/n02112706_1554.jpg"
+    },
+    {
+      "breed": "Briard",
+      "origin": "France",
+      "imgurl":"https://images.dog.ceo/breeds/briard/n02105251_2439.jpg"
+    },
+    {
+      "breed": "Norwegian Buhund",
+      "origin": "Norway",
+      "imgurl":"https://images.dog.ceo/breeds/terrier-norwich/n02094258_112.jpg"
+    },
+    {
+      "breed": "French Bulldog",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/bulldog-english/bunz.jpg"
+    },
+    {
+      "breed": "English Bulldog",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/bulldog-english/bunz.jpg"
+    },
+
+    {
+      "breed": "Bull Terrier",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_1272.jpg"
+    },
+    {
+      "breed": "Cairn",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/cairn/n02096177_218.jpg"
+    },
+    {
+      "breed": "Cattle Dog",
+      "origin": "Australia",
+      "imgurl":"https://images.dog.ceo/breeds/cattledog-australian/IMG_5481.jpg"
+    },
+    {
+      "breed":  "Chihuahua",
+      "origin": "Mexico",
+      "imgurl":"https://images.dog.ceo/breeds/chihuahua/n02085620_5771.jpg"
+    },
+    {
+      "breed": "Chow",
+      "origin": "China",
+      "imgurl":"https://images.dog.ceo/breeds/chow/n02112137_7645.jpg"
+    },
+    {
+      "breed": "Clumber",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/bulldog-english/jager-1.jpg"
+    },
+    {
+      "breed": "Cockapoo",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/cockapoo/bubbles2.jpg"
+    },
+    {
+      "breed": "Collie",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/collie-border/n02106166_1133.jpg"
+    },
+    {
+      "breed": "Coonhound",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/coonhound/n02089078_2957.jpg"
+    },
+    {
+      "breed": "Cardigan Corgi",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/corgi-cardigan/n02113186_9063.jpg"
+    },
+    {
+      "breed": "Coton de Tulear",
+      "origin": "Madagascar",
+      "imgurl":"https://images.dog.ceo/breeds/cotondetulear/100_2397.jpg"
+    },
+    {
+      "breed": "Dachshund",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/dachshund/dachshund_4.jpg"
+    },
+    {
+      "breed": "Dalmatian",
+      "origin": "Croatia",
+      "imgurl":"https://images.dog.ceo/breeds/dalmatian/cooper2.jpg"
+    },
+    {
+      "breed": "Dane",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/dane-great/n02109047_941.jpg"
+    },
+    {
+      "breed": "Deerhound",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/deerhound-scottish/n02092002_9656.jpg"
+    },
+    {
+      "breed": "Dhole",
+      "origin": "East Asia",
+      "imgurl":"https://images.dog.ceo/breeds/dhole/n02115913_3178.jpg"
+    },
+    {
+      "breed": "Dingo",
+      "origin": "Australia",
+      "imgurl":"https://images.dog.ceo/breeds/dingo/n02115641_7181.jpg"
+    },
+    {
+      "breed": "Dobermann",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/doberman/n02107142_3621.jpg"
+    },
+    {
+      "breed": "Elkhound",
+      "origin": "Norway",
+      "imgurl":"https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_4558.jpg"
+    },
+    {
+      "breed": "Entlebucher",
+      "origin": "Switzerland",
+      "imgurl":"https://images.dog.ceo/breeds/entlebucher/n02108000_2394.jpg"
+    },
+    {
+      "breed": "Eskimo",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/eskimo/n02109961_16095.jpg"
+    },
+    {
+      "breed": "Finnish",
+      "origin": "Finland",
+      "imgurl":"https://images.dog.ceo/breeds/finnish-lapphund/mochilamvan.jpg"
+    },
+    {
+      "breed": "Frise",
+      "origin": "France",
+      "imgurl":"https://images.dog.ceo/breeds/frise-bichon/stevebaxter_bichon_frise.jpg"
+    },
+    {
+      "breed": "German Shepherd",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/germanshepherd/n02106662_19801.jpg"
+    },
+    {
+      "breed": "Greyhound",
+      "origin": "Europe",
+      "imgurl":"https://images.dog.ceo/breeds/greyhound-italian/n02091032_652.jpg"
+    },
+    {
+      "breed": "Groenendael",
+      "origin": "Belgium",
+      "imgurl":"https://images.dog.ceo/breeds/groenendael/n02105056_7112.jpg"
+    },
+    {
+      "breed": "Havanese",
+      "origin": "Cuba",
+      "imgurl":"https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191103202017556_COVER.jpg"
+    },
+    {
+      "breed": "Husky",
+      "origin": "Russia",
+      "imgurl":"https://images.dog.ceo/breeds/husky/n02110185_10875.jpg"
+    },
+    {
+      "breed": "Keeshond",
+      "origin": "Netherlands, Germany",
+      "imgurl":"https://images.dog.ceo/breeds/keeshond/n02112350_7573.jpg"
+    },
+    {
+      "breed": "Kelpie",
+      "origin": "Australia",
+      "imgurl":"https://images.dog.ceo/breeds/kelpie/n02105412_3218.jpg"
+    },
+    {
+      "breed": "Komondor",
+      "origin": "Hungary",
+      "imgurl":"https://images.dog.ceo/breeds/komondor/n02105505_4021.jpg"
+    },
+    {
+      "breed": "Kuvasz",
+      "origin": "Hungary",
+      "imgurl":"https://images.dog.ceo/breeds/kuvasz/n02104029_4746.jpg"
+    },
+    {
+      "breed": "Labrador",
+      "origin": "Canada",
+      "imgurl":"https://images.dog.ceo/breeds/labrador/n02099712_4462.jpg"
+    },
+    {
+      "breed": "Leonberg",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/leonberg/n02111129_1065.jpg"
+    },
+    {
+      "breed": "Lhasa",
+      "origin": "China",
+      "imgurl":"https://images.dog.ceo/breeds/lhasa/n02098413_9550.jpg"
+    },
+    {
+      "breed": "Malamute",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/malamute/n02110063_12597.jpg"
+    },
+    {
+      "breed": "Malinois",
+      "origin": "Belgium",
+      "imgurl":"https://images.dog.ceo/breeds/malinois/n02105162_5913.jpg"
+    },
+    {
+      "breed": "Maltese",
+      "origin": "Malta",
+      "imgurl":"https://images.dog.ceo/breeds/maltese/n02085936_8449.jpg"
+    },
+    {
+      "breed": "Mastiff",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_12438.jpg"
+    },
+    {
+      "breed": "Mexican Hairless",
+      "origin": "Mexico",
+      "imgurl":"https://images.dog.ceo/breeds/mexicanhairless/n02113978_838.jpg"
+    },
+    {
+      "breed": "Mountain",
+      "origin": "Switzerland",
+      "imgurl":"https://images.dog.ceo/breeds/mountain-swiss/n02107574_854.jpg"
+    },
+    {
+      "breed": "Newfoundland",
+      "origin": "Canada",
+      "imgurl":"https://images.dog.ceo/breeds/newfoundland/n02111277_13845.jpg"
+    },
+    {
+      "breed": "Otterhound",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/otterhound/n02091635_923.jpg"
+    },
+    {
+      "breed": "Ovcharka",
+      "origin": "Caucasus",
+      "imgurl":"https://images.dog.ceo/breeds/ovcharka-caucasian/IMG_20191130_155610.jpg"
+    },
+    {
+      "breed": "Papillon",
+      "origin": "Belgium, France, Spain",
+      "imgurl":"https://images.dog.ceo/breeds/papillon/n02086910_7868.jpg"
+    },
+    {
+      "breed": "Pekinese",
+      "origin": "China",
+      "imgurl":"https://images.dog.ceo/breeds/pekinese/n02086079_5087.jpg"
+    },
+    {
+      "breed": "Pembroke Welsh Corgi",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/pembroke/n02113023_10829.jpg"
+    },
+    {
+      "breed": "Pinscher",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/pinscher-miniature/n02107312_3456.jpg"
+    },
+    {
+      "breed": "Pitbull",
+      "origin": "United Kingdom, USA",
+      "imgurl":"https://images.dog.ceo/breeds/pitbull/20190710_143021.jpg"
+    },
+    {
+      "breed": "Pointer",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/pointer-german/n02100236_295.jpg"
+    },
+    {
+      "breed": "Pomeranian",
+      "origin": "Germany, Poland",
+      "imgurl":"https://images.dog.ceo/breeds/pomeranian/n02112018_7460.jpg"
+    },
+    {
+      "breed": "Poodle",
+      "origin": "Germany, France",
+      "imgurl":"https://images.dog.ceo/breeds/poodle-standard/n02113799_4557.jpg"
+    },
+    {
+      "breed": "Pug",
+      "origin": "China",
+      "imgurl":"https://images.dog.ceo/breeds/pug/n02110958_15014.jpg"
+    },
+    {
+      "breed": "Puggle",
+      "origin": "Unknown",
+      "imgurl":"https://images.dog.ceo/breeds/puggle/IMG_153357.jpg"
+    },
+    {
+      "breed": "Pyrenees",
+      "origin": "France, Spain",
+      "imgurl":"https://images.dog.ceo/breeds/pyrenees/n02111500_8042.jpg"
+    },
+    {
+      "breed": "Redbone",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/redbone/n02090379_2410.jpg"
+    },
+    {
+      "breed": "Ridgeback",
+      "origin": "Southern Africa",
+      "imgurl":"https://images.dog.ceo/breeds/ridgeback-rhodesian/n02087394_1925.jpg"
+    },
+    {
+      "breed": "Rottweiler",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/rottweiler/n02106550_12642.jpg"
+    },
+    {
+      "breed": "Saluki",
+      "origin": "Fertile Crescent",
+      "imgurl":"https://images.dog.ceo/breeds/saluki/n02091831_2076.jpg"
+    },
+    {
+      "breed": "Samoyed",
+      "origin": "Russia",
+      "imgurl":"https://images.dog.ceo/breeds/samoyed/n02111889_3499.jpg"
+    },
+    {
+      "breed": "Schipperke",
+      "origin": "Belgium",
+      "imgurl":"https://images.dog.ceo/breeds/schipperke/n02104365_7953.jpg"
+    },
+    {
+      "breed": "Schnauzer",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_509.jpg"
+    },
+    {
+      "breed": "Setter",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/setter-gordon/n02101006_3379.jpg"
+    },
+    {
+      "breed": "Sheep Dog",
+      "origin": "World",
+      "imgurl":"https://images.dog.ceo/breeds/sheepdog-english/n02105641_4577.jpg"
+    },
+    {
+      "breed": "Shiba",
+      "origin": "Japan",
+      "imgurl": "https://images.dog.ceo/breeds/shiba/shiba-1.jpg"
+    },
+    {
+      "breed": "Shih Tzu",
+      "origin": "China",
+      "imgurl":"https://images.dog.ceo/breeds/shihtzu/n02086240_4625.jpg"
+    },
+    {
+      "breed": "Spaniel",
+      "origin": "United Kingdom, Japan",
+      "imgurl":"https://images.dog.ceo/breeds/spaniel-japanese/n02085782_2886.jpg"
+    },
+    {
+      "breed": "Springer",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/springer-english/n02102040_1276.jpg"
+    },
+    {
+      "breed": "Stbernard",
+      "origin": "Italy, Switzerland",
+      "imgurl":"https://images.dog.ceo/breeds/stbernard/n02109525_11747.jpg"
+    },
+    {
+      "breed": "Terrier",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/terrier-lakeland/n02095570_2230.jpg"
+    },
+    {
+      "breed": "Vizsla",
+      "origin": "Hungary",
+      "imgurl":"https://images.dog.ceo/breeds/vizsla/n02100583_9960.jpg"
+    },
+    {
+      "breed": "Waterdog",
+      "origin": "Europe, North America",
+      "imgurl":"https://images.dog.ceo/breeds/waterdog-spanish/20180706_194432.jpg"
+    },
+    {
+      "breed": "Weimaraner",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/weimaraner/n02092339_437.jpg"
+    },
+    {
+      "breed": "Whippet",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/whippet/n02091134_19084.jpg"
+    },
+    {
+      "breed": "Wolfhound",
+      "origin": "Ireland",
+      "imgurl":"https://images.dog.ceo/breeds/wolfhound-irish/n02090721_3940.jpg"
+    }
+  ],
+  "status": "Success, welcome to Doglist!"
+}
