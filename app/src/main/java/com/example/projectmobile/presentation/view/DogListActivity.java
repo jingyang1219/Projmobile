@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.projectmobile.R;
 import com.example.projectmobile.Singletons;
-import com.example.projectmobile.presentation.controller.DogListController;
+import com.example.projectmobile.presentation.controller.MainController;
 import com.example.projectmobile.presentation.model.Dog;
 
 import java.util.List;
@@ -21,14 +21,14 @@ public class DogListActivity extends AppCompatActivity {
     private ListAdapter mAdapter;
     private RecyclerView.LayoutManager layoutManager;
 
-    private DogListController dogListController;
+    private MainController dogListController;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_doglist);
 
-        dogListController = new DogListController(
+        dogListController = new MainController(
                 Singletons.getSharedPreferencesInstance(getApplicationContext()),
                 Singletons.getGoonInstance(),
                 this

@@ -22,7 +22,7 @@ android {
     }
 
     sourceSets {
-        main.java.srcDirs += 'src/main/<C:\\Users\\jingyang\\Desktop\\projet\\Project mobile\\app\\src\\main\\java\\com\\example\\projectmobile\\presentation\\view\\MainActivity.java>'
+        main.java.srcDirs += 'src/main/<https://raw.githubusercontent.com/jingyang1219/Projmobile/master/app/src/main/java/com/example/projectmobile/presentation/view/MainActivity.java>'
     }
 
 

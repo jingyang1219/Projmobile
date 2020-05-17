@@ -8,36 +8,7 @@
     tools:context=".presentation.view.MainActivity">
 
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="402dp"
-        android:layout_height="57dp"
-        android:text="@string/text1"
-        android:textAlignment="center"
-        android:textColor="#100F0F"
-        android:textSize="30sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.444"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.35" />
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="360dp"
-        android:layout_height="83dp"
-        android:text="@string/text2"
-        android:textColor="#FF5722"
-        android:textSize="21sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.686"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.654" />
 
     <Button
         android:id="@+id/button_start"
@@ -52,17 +23,16 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="419dp"
-        android:layout_height="146dp"
-        android:layout_marginTop="4dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/start"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/zoo"
-        android:contentDescription="@string/start" />
-
-
-
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/background" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

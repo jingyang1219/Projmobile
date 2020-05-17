@@ -18,14 +18,14 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-public class DogListController {
+public class MainController {
 
     private SharedPreferences sharedPreferences;
     private Gson gson;
     private DogListActivity view;
 
 
-    public DogListController(SharedPreferences sharedPreferences, Gson gson, DogListActivity view) {
+    public MainController(SharedPreferences sharedPreferences, Gson gson, DogListActivity view) {
         this.sharedPreferences = sharedPreferences;
         this.gson = gson;
         this.view = view;
@@ -70,7 +70,7 @@ public class DogListController {
                 .edit()
                 .putString(Constants.KEY_DOG_LIST, jsonString)
                 .apply();
-        Toast.makeText(view.getApplicationContext(),"Dog List Saved", Toast.LENGTH_SHORT).show();
+        Toast.makeText(view.getApplicationContext(),"List Saved", Toast.LENGTH_SHORT).show();
 
     }
 
