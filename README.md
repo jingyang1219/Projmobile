@@ -29,4 +29,4 @@ This application named doglover which can show a list of dog's names and their p
 ## The last one :
 
 
-<img src="https://github.com/jingyang1219/Projmobile/blob/master/images_app/last_screen.png" width="30%" height="30%">
+<img src="https://github.com/jingyang1219/Projmobile/blob/master/images_app/third_screen.png" width="30%" height="30%">
