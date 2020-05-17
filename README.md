@@ -1,23 +1,6 @@
 # Présentation
 
-Cette application s'appelle Cute Dogs. Elle contient 3 écrans. Le premier écran s'affiche le menu de APP. Le deuxième écran s'affiche une liste de chien, cette liste contiennent leurs races, leurs images et leurs lieux d'origine. Lorsqu'on appuie un élément de liste, on ira dans le troisième écran, il s'affiche le statut de liste.
-
-Cette application utilise l'API de Github, il permet d'aller chercher le fichier myAPI.json sur mon compte Github, les données de liste de chien et le statut de liste sont enregistrés dans ce fichier json.
-
-
-# Consignes Respectées
-
-Affichage d'une liste d’éléments.
-
-Affichage d'un détail information(le statut) d'une liste.
-
-Appel WebService à une API Rest.
-
-Stockage de données en cache.
-
-Design : menu, fond, logo.
-
-Architecture : Singleton, MVC, Principes Solid.
+This application named doglover which can show a list of dog's names and their pictures with a small icon.
 
 
 # Fonctionnalités
